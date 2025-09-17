@@ -1,5 +1,5 @@
 # Trackmania-Reinforcement-Learning-Bot
-
+In this project my goal is to teach an AI to play trackmania using Reinforcement Learning based on the framework of TMRL. My inspiration for this project was from watching the videos by [Yosh](https://www.youtube.com/@yoshtm) and [Linesight] about their journeys in creating their own AI
 ## TMRL -- [Github Link](https://github.com/trackmania-rl/tmrl)
 
 The [gym](https://github.com/yannbouteiller/rtgym) is directly run which simulates the bots interaction with the environmetn with a [rollout worker](https://medium.com/@sophiezhao_2990/rollout-in-rl-how-its-structured-ca6c106cfc80)
